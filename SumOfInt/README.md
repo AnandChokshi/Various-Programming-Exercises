@@ -1,1 +1,0 @@
-Sum of integers taken from input file
