@@ -1,5 +1,6 @@
 Beautiful Strings
 <br />
+<br />
 Credits: This problem appeared in the Facebook Hacker Cup 2013 Hackathon. 
 
 When John was a little kid he didn't have much to do. There was no internet, no Facebook, and no programs to hack on. So he did the only thing he could... he evaluated the beauty of strings in a quest to discover the most beautiful string in the world. 
